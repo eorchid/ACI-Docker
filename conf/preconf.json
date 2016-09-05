@@ -1,0 +1,8 @@
+{
+    "tenant": "tenant1",
+    "anp": "ANP-TENANT1",
+    "vrf": "VRF-TENANT1",
+    "pod":"pod-1",
+    "vlan-start":1,
+    "vlan-stop":2000
+}
